@@ -467,3 +467,5 @@ func ExampleClient() {
 	fmt.Println(docs[0].Id, docs[0].Properties["title"], total, err)
 	// Output: doc1 Hello world 1 <nil>
 }
+
+
